@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshan Himalaka</h1>
-<h3 align="center">Computer Science Undergraduate | Passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">Computer Science Undergraduate | Passionate Full Stack Developer</h3>
 
 - 🌱 I’m currently reading **my BSc (Hons) in Computer Science and Technology at Sabaragamuwa University of Sri Lanka.**
 
